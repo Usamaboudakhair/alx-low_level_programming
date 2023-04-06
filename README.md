@@ -1,2 +1,2 @@
 # alx-low_level_programming
-alx low level programming
+alx C programming language
