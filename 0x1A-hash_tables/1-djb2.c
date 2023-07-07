@@ -2,6 +2,7 @@
 
 /**
  * hash_djb2 - implementation of the djb2 algorithm
+ * owned by asofeyeje
  * @str: string used to generate hash value
  *
  * Return: hash value
